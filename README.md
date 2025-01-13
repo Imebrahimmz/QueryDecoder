@@ -40,7 +40,7 @@ Follow these steps to set up and use Extract tgWebAppData:
 
 ## Support
 
-If you encounter any issues or need help, feel free to reach out via my [Telegram channel](https://t.me/imebrahim).
+If you encounter any issues or need help, feel free to reach out via [TELEGRAM](https://t.me/imebrahim).
 
 ---
 
